@@ -1,0 +1,30 @@
+_repo: Little-Downy--The-History-of-A-Field-Mouse_27239
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27239-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Traill, Catharine Parr Strickland
+    aliases:
+    - Traill, Mrs.
+    - Traill, Catherine Parr
+    birthdate: 1802
+    deathdate: 1899
+    gutenberg_agent_id: '2715'
+    url: http://www.gutenberg.org/2009/agents/2715
+    wikipedia: http://en.wikipedia.org/wiki/Catharine_Parr_Traill
+description: ''
+gutenberg_issued: '2008-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mice -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Little Downy: The History of A Field-Mouse'
+url: http://www.gutenberg.org/ebooks/27239
